@@ -39,3 +39,6 @@ body {
   border-radius: 12px;
   border: 2px solid #ffe3e1;
 }
+body, body * {
+color: white !important;
+}
