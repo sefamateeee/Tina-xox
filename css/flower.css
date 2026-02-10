@@ -363,3 +363,7 @@ body{
         transform:translate(-36vmin,1.1vmin) rotateY(-80deg) rotateX(35deg);
     }
 }
+#thankyou,
+#thankyou * {
+color: white !important;
+}
