@@ -23,7 +23,7 @@ img {
   margin: 10px;
   font-family: "courier";
   margin-bottom: 20px;
-  background-color: #ffe3e1;
+  background-color: pink;
   color: #e67373;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
@@ -32,7 +32,7 @@ img {
 }
 
 .answerButton:hover {
-  background-color: #ff9494;
+  background-color: pink;
   color: #ffe3e1;
   border: 2px solid #ff9494;
   box-shadow: 1px 1px 2px #ffe3e1;
